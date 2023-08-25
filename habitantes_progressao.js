@@ -9,8 +9,6 @@ Faça um programa que calcule e escreva o número de anos necessários para que 
 let PaisA = 80000;
 let PaisB = 200000;
 
-let contadorAnos = 0;
-
 const taxaAnualPaisA = 0.03;
 const taxaAnualPaisB = 0.015;
 
